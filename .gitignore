@@ -1,3 +1,4 @@
 node_modules
 Anotations
 src/database/database.sqlite
+tmp
